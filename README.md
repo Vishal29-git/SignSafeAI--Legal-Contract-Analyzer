@@ -218,4 +218,4 @@ legal-contract-analyzer/
 - Scanned PDF support with OCR (pytesseract)
 - Side-by-side comparison of two contracts
 
-![System Demo](docs/Legal Contract Analyzer.gif)
+![System Demo](docs/SignSafeAI.gif)
